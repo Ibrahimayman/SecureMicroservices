@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e6555d2-3e68-4b22-b067-b72ae033b0ca": {
+      "ProjectGuid": "7e6555d2-3e68-4b22-b067-b72ae033b0ca",
+      "DisplayName": "Movies.API",
+      "ColorIndex": 0
+    },
+    "0657639b-7c3f-4db3-a269-9cc9fc909086": {
+      "ProjectGuid": "0657639b-7c3f-4db3-a269-9cc9fc909086",
+      "DisplayName": "IdentityServer",
+      "ColorIndex": 1
+    },
+    "fa558647-eadd-4a3a-9818-ddeb4dc16c2b": {
+      "ProjectGuid": "fa558647-eadd-4a3a-9818-ddeb4dc16c2b",
+      "DisplayName": "Movies.Client",
+      "ColorIndex": 2
+    },
+    "5151b5a1-77b9-4a28-a5c1-634e6c2d20b6": {
+      "ProjectGuid": "5151b5a1-77b9-4a28-a5c1-634e6c2d20b6",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
